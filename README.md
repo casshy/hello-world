@@ -27,7 +27,8 @@ int main(){
 |左揃え|中央揃え|右揃え|
 
 ## 画像
-画像保存用のブランチを切ってアップロード -> URL指定で挿入可能
+画像保存用のブランチを切ってアップロード -> URL指定で挿入可能  
+画像は画面上部の"Upload files"ボタンからアップロード可能
 ````
 ![octocat](https://github.com/casshy/hello-world/blob/images/octocat.jpg)
 ````
@@ -40,3 +41,5 @@ int main(){
 1. その2
 1. その3
 
+## html
+<i>html記法も可能</i>

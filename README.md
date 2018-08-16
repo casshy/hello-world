@@ -2,7 +2,7 @@
 
 This is a test repository.
 
-## ソースコードの書き方
+## ソースコード
 ````c
 #include <stdio.h>
 int main(){
@@ -11,7 +11,7 @@ int main(){
 }
 ````
 
-## 表の書き方
+## 表
 コード  
 ````GFM
 |Item1|Item2|Item3|
@@ -26,7 +26,7 @@ int main(){
 |A|B|C|
 |左揃え|中央揃え|右揃え|
 
-## 画像の挿入
+## 画像
 
 
 ## 箇条書き
